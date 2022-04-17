@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dewmsalman
+- 👀 I’m interested in data analysis and econometrics
+- 🌱 I’m currently learning python for data analysis and data science 
+- 💞️ I’m looking to collaborate on research field based on econometrics
+- 📫 How to reach me email: dewmsalman@gmail.com 
